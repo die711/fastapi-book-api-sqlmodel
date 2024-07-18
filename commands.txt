@@ -3,7 +3,7 @@ git init
 git branch -m main
 git add .
 git commit -m 'first commit with initial api'
-git remote add origin 'https://github.com/die711/fastapi_sqlalchemy_sqlite_bitfumesbi.git'
+git remote add origin 'https://github.com/die711/fastapi-book-api-sqlmodel.git'
 git push origin -u main
 git pull
 
